@@ -12,4 +12,5 @@ pip install bitsandbytes</br>
 pip install sentence_transformers</br>
 pip install chromadb</br>
 pip install langchain_community</br>
+pip install langchain_chroma</br>
 
